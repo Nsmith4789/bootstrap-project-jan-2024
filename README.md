@@ -25,12 +25,12 @@ It contains three pages:
 ## Roadmap
 
 - [x] index.html
-- [ ] about.html
-- [ ] Bootstrap List Group
-- [ ] Bootstrap Card Component
-- [ ] Bootstrap Grid
-- [ ] ______________
-- [ ] Bootstrap Utility Class
+- [x] about.html
+- [x] Bootstrap List Group
+- [x] Bootstrap Card Component
+- [x] Bootstrap Grid
+- [x] ______________
+- [x] Bootstrap Utility Class
 
 
 ## Contact
